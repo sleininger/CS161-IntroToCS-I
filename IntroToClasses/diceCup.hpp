@@ -9,7 +9,7 @@ class diceCup {
 		int numFaces;
 		int numDice;
 
-	//Public functions and contructor prototypes herenum
+	//Public functions and contructor prototypes here
 	public:
 		diceCup();
 		void setNumDice(int);
